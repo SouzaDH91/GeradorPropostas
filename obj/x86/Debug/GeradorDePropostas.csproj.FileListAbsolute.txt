@@ -1,0 +1,13 @@
+F:\projetos visual studio\GeradorDePropostas\bin\x86\Debug\GeradorDePropostas.exe
+F:\projetos visual studio\GeradorDePropostas\bin\x86\Debug\GeradorDePropostas.pdb
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.frmMain.resources
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.Properties.Resources.resources
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.csproj.GenerateResource.cache
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.csproj.CoreCompileInputs.cache
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.exe
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.pdb
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.csprojAssemblyReference.cache
+F:\projetos visual studio\GeradorDePropostas\bin\x86\Debug\BouncyCastle.Crypto.dll
+F:\projetos visual studio\GeradorDePropostas\bin\x86\Debug\itextsharp.dll
+F:\projetos visual studio\GeradorDePropostas\bin\x86\Debug\itextsharp.xml
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.csproj.CopyComplete

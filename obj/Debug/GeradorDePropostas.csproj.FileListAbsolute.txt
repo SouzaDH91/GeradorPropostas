@@ -1,0 +1,9 @@
+F:\projetos visual studio\GeradorDePropostas\bin\Debug\GeradorDePropostas.exe
+F:\projetos visual studio\GeradorDePropostas\bin\Debug\GeradorDePropostas.pdb
+F:\projetos visual studio\GeradorDePropostas\obj\Debug\GeradorDePropostas.csprojAssemblyReference.cache
+F:\projetos visual studio\GeradorDePropostas\obj\Debug\GeradorDePropostas.frmMain.resources
+F:\projetos visual studio\GeradorDePropostas\obj\Debug\GeradorDePropostas.Properties.Resources.resources
+F:\projetos visual studio\GeradorDePropostas\obj\Debug\GeradorDePropostas.csproj.GenerateResource.cache
+F:\projetos visual studio\GeradorDePropostas\obj\Debug\GeradorDePropostas.csproj.CoreCompileInputs.cache
+F:\projetos visual studio\GeradorDePropostas\obj\Debug\GeradorDePropostas.exe
+F:\projetos visual studio\GeradorDePropostas\obj\Debug\GeradorDePropostas.pdb
