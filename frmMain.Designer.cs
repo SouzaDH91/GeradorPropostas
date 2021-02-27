@@ -48,6 +48,7 @@ namespace GeradorDePropostas
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.lblRegistros = new System.Windows.Forms.ToolStripStatusLabel();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.ButtonSave = new System.Windows.Forms.Button();
             this.tbConsideracoes = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -59,7 +60,7 @@ namespace GeradorDePropostas
             this.label2 = new System.Windows.Forms.Label();
             this.tbCliente = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.ButtonSave = new System.Windows.Forms.Button();
+            this.dataGridToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDadosExcel)).BeginInit();
             this.statusStrip1.SuspendLayout();
@@ -71,6 +72,7 @@ namespace GeradorDePropostas
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.gerarTabulaçãoToolStripMenuItem,
+            this.dataGridToolStripMenuItem,
             this.sairToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -227,6 +229,16 @@ namespace GeradorDePropostas
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Subscrição de Riscos";
             // 
+            // ButtonSave
+            // 
+            this.ButtonSave.Location = new System.Drawing.Point(1075, 170);
+            this.ButtonSave.Name = "ButtonSave";
+            this.ButtonSave.Size = new System.Drawing.Size(129, 35);
+            this.ButtonSave.TabIndex = 11;
+            this.ButtonSave.Text = "PDF";
+            this.ButtonSave.UseVisualStyleBackColor = true;
+            this.ButtonSave.Click += new System.EventHandler(this.ButtonSave_Click);
+            // 
             // tbConsideracoes
             // 
             this.tbConsideracoes.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
@@ -335,15 +347,12 @@ namespace GeradorDePropostas
             this.label1.TabIndex = 0;
             this.label1.Text = "Cliente*:";
             // 
-            // ButtonSave
+            // dataGridToolStripMenuItem
             // 
-            this.ButtonSave.Location = new System.Drawing.Point(1075, 170);
-            this.ButtonSave.Name = "ButtonSave";
-            this.ButtonSave.Size = new System.Drawing.Size(129, 35);
-            this.ButtonSave.TabIndex = 11;
-            this.ButtonSave.Text = "PDF";
-            this.ButtonSave.UseVisualStyleBackColor = true;
-            this.ButtonSave.Click += new System.EventHandler(this.ButtonSave_Click);
+            this.dataGridToolStripMenuItem.Name = "dataGridToolStripMenuItem";
+            this.dataGridToolStripMenuItem.Size = new System.Drawing.Size(83, 24);
+            this.dataGridToolStripMenuItem.Text = "DataGrid";
+            this.dataGridToolStripMenuItem.Click += new System.EventHandler(this.dataGridToolStripMenuItem_Click);
             // 
             // frmMain
             // 
@@ -403,6 +412,7 @@ namespace GeradorDePropostas
         private System.Windows.Forms.TextBox tbCliente;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button ButtonSave;
+        private System.Windows.Forms.ToolStripMenuItem dataGridToolStripMenuItem;
     }
 }
 

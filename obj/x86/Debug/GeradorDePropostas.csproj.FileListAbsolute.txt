@@ -11,3 +11,4 @@ F:\projetos visual studio\GeradorDePropostas\bin\x86\Debug\BouncyCastle.Crypto.d
 F:\projetos visual studio\GeradorDePropostas\bin\x86\Debug\itextsharp.dll
 F:\projetos visual studio\GeradorDePropostas\bin\x86\Debug\itextsharp.xml
 F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.csproj.CopyComplete
+F:\projetos visual studio\GeradorDePropostas\obj\x86\Debug\GeradorDePropostas.frmDataGrid.resources

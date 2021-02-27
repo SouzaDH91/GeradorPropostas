@@ -131,5 +131,11 @@ namespace GeradorDePropostas
             //System.Drawing.Image ImagemPdf = System.Drawing.Image.GetInstance(stream);
             //document.Add(ImagemPdf);
         }
+
+        private void dataGridToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmDataGrid dg = new frmDataGrid();
+            dg.ShowDialog();
+        }
     }
 }
