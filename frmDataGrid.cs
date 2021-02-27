@@ -37,7 +37,8 @@ namespace GeradorDePropostas
 
             geradorDataGridView.Name = "geradorDataGridView";
             geradorDataGridView.Location = new Point(8, 8);
-            geradorDataGridView.Size = new Size(500, 250);
+            geradorDataGridView.AutoSizeColumnsMode =
+                DataGridViewAutoSizeColumnsMode.Fill;
             geradorDataGridView.AutoSizeRowsMode =
                 DataGridViewAutoSizeRowsMode.DisplayedCellsExceptHeaders;
             geradorDataGridView.ColumnHeadersBorderStyle =
